@@ -1,8 +1,7 @@
 import React from 'react';
-import './index.css';
 
 
-function App() {
+function Header() {
   return (
     <div className="Header">
       <nav class="navbar navbar-dark bg-dark" style={{ color: "white", width: "100%", padding: "20px", fontSize: "35px" }}>
@@ -12,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+export default Header;
