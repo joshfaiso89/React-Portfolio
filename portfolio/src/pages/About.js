@@ -7,7 +7,6 @@ export default class About extends Component {
           <div>
               <Header />
           <div className="container" style={{ border: "black"}}>
-             <Body />
           </div>
           </div>
       )
