@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,UACF,CAEA,MACE,UAAW,CACX,WACF,CAEA,MACE,WAAY,CACZ,UACF","file":"main.f98ecf97.chunk.css","sourcesContent":[".Header {\n  color: white;\n}\n\n.card{\n  width: 100%;\n  height: 100%;\n}\n\nimg, a{\n  size: 30 rem;\n  width: 100%;\n}"]}
