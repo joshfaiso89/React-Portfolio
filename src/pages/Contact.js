@@ -6,7 +6,7 @@ export default function Contact() {
         <div>
             <Header />
             {/* <Body /> */}
-            <div className="container">
+            <div className="container-lg">
                 <label>Name</label>
                 <br/>
                 <input type="text" />
