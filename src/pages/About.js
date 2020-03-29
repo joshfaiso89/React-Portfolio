@@ -15,16 +15,13 @@ export default class About extends Component {
           <div className="col-sm-8">
             <h2>About Me</h2>
             <h3>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+            I am a passionate and dedicated software developer, capable of standing up full stack websites and
+        applications. I have a strong desire to learn and personalise my skillset. I spent 10 years in logistics and
+        have an exceptional amount of knowledge in the feild, however I truley enjoy building applications. I don't
+        intend to limit my area of expertise, I am taking in all apsects of development, in hopes to be as well rounded as
+        possible. Learning to code comes with its fair shares of hurdles, but I am enjoying every second of the process
+        and love seeing a project deployed without error. I intend to bring an opend mind and optimism to my work
+        environment.
             </h3>
           </div>
         </div>
