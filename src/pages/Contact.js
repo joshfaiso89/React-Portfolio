@@ -6,7 +6,10 @@ export default function Contact() {
         <div>
             <Header />
             {/* <Body /> */}
+            
             <div className="container-lg">
+                <div className="row">
+                <div className= "col-lg-6">
                 <label>Name</label>
                 <br/>
                 <input type="text" />
@@ -20,6 +23,11 @@ export default function Contact() {
                 <textarea name="text" id="" cols="30" rows="10"></textarea>
                 <br/>
                 <button>Submit</button>
+                </div>
+                <div className="col-lg-6">
+                 <img src="../Images/contact1.png" alt='' />
+                </div>
+                </div>
             </div>
         </div>
     )

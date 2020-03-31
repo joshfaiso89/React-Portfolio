@@ -25,6 +25,9 @@ export default class About extends Component {
             </h3>
           </div>
         </div>
+      <div className="row-2">
+      <img src="../Images/coder.png" class="rounded mx-auto d-block" alt="" />
+      </div>
       </div>
     );
   }
